@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/plantsite/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/plantsite/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/plantsite/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/plantsite/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/plantsite/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/plantsite/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/prompts" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/league/flysystem-local" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/spatie/backtrace" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/spatie/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/spatie/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/spatie/laravel-ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/dasprid/enum" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/fortify" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/laravel/jetstream" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/livewire/livewire" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/mobiledetect/mobiledetectlib" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/plantsite/vendor/pragmarx/google2fa" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
